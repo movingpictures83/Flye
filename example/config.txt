@@ -1,0 +1,2 @@
+Prefix plugins/Flye/example
+Plugin Flye inputfile parameters.txt outputfile Flye
