@@ -3,7 +3,7 @@
 # Input: TXT
 # Output: DIR
 # Tested with: PluMA 1.1, GCC 4.8.4
-# Dependencies: Canu 2.2
+# Dependencies: Flye 2.8.3-b1725
 
 PluMA plugin to perform genome assembly with long reads, using Flye (Kolmogorov et al, 2019).
 
